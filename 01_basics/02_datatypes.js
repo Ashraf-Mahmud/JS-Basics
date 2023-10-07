@@ -1,0 +1,1 @@
+"use strict"; //treat all java code as a newer version
